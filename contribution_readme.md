@@ -1,16 +1,19 @@
-# Contribution [#]: [Issue Title]
+# Contribution #4720: Enable API access for daily recaps
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Josiah De Leon  
+**Issue:** https://github.com/BasedHardware/omi/issues/4720  
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose issue #4720 "Enable API access for daily recaps" because omi is an AI application which is inline with the direction software development is moving toward. I'm also very much interested in backend development and have experience builing RestFUL api so it'll be interesting to see how things work when AI is involved. Should be fun.
 
+In addition the issue is tagged as `p3`, indicating the it's low priority however this isn't an excuse to not provide high quality work and to be sure that it's implemented the atmost care and attention to detail and performance.
+
+The latest is that I've expressed my interest to the contributors and I'm waiting on a reply
 ---
 
 ## Understanding the Issue
